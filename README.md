@@ -32,8 +32,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 
-### Developed By: SAI HRISHI M
-### Register No: 212224240140
+### Developed By: SARAVANAN SHAM PRAKASH
+### Register No: 212224230254
 
 ``` python
 ## i) Write the frame as JPG file
@@ -53,7 +53,8 @@ plt.axis('off')
 plt.show()
 ```
 
-<img width="650" height="527" alt="Screenshot 2025-09-10 015304" src="https://github.com/user-attachments/assets/80fc28f5-5253-4435-a471-2a6df66cf558" />
+![WhatsApp Image 2025-09-10 at 11 38 49_f4d54368](https://github.com/user-attachments/assets/5566ed7d-33e4-4e36-91be-a2e9ef032d15)
+
 
 ```python
 ## ii) Display the video
@@ -73,7 +74,7 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="643" height="508" alt="Screenshot 2025-09-10 015438" src="https://github.com/user-attachments/assets/4ed5daa9-1cb6-4211-a4de-a44b9cc3622c" />
+![WhatsApp Image 2025-09-10 at 11 40 19_804d403e](https://github.com/user-attachments/assets/c5763817-da69-4548-9180-301c2deabbac)
 
 
 ```python
@@ -95,7 +96,8 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="331" height="499" alt="Screenshot 2025-09-10 015608" src="https://github.com/user-attachments/assets/f46cdc58-863f-4ce1-9f29-d0afc1819d57" />
+![WhatsApp Image 2025-09-10 at 11 41 09_b96450b7](https://github.com/user-attachments/assets/d726150c-f4cf-470e-b6e9-d262d3e0718f)
+
 
 ```python
 ## iv) Rotate and display the video
@@ -116,7 +118,7 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="373" height="504" alt="Screenshot 2025-09-10 015802" src="https://github.com/user-attachments/assets/d1554dcf-efd6-49db-95de-0bf162c8273c" />
+![WhatsApp Image 2025-09-10 at 11 41 34_1b74b8a8](https://github.com/user-attachments/assets/615389fc-91bd-4ee7-985b-9ed5fe291808)
 
 
 ## Result:
